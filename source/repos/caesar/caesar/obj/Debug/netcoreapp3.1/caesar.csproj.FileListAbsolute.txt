@@ -1,0 +1,13 @@
+C:\Users\Vartotojas\source\repos\caesar\caesar\bin\Debug\netcoreapp3.1\caesar.exe
+C:\Users\Vartotojas\source\repos\caesar\caesar\bin\Debug\netcoreapp3.1\caesar.deps.json
+C:\Users\Vartotojas\source\repos\caesar\caesar\bin\Debug\netcoreapp3.1\caesar.runtimeconfig.json
+C:\Users\Vartotojas\source\repos\caesar\caesar\bin\Debug\netcoreapp3.1\caesar.runtimeconfig.dev.json
+C:\Users\Vartotojas\source\repos\caesar\caesar\bin\Debug\netcoreapp3.1\caesar.dll
+C:\Users\Vartotojas\source\repos\caesar\caesar\bin\Debug\netcoreapp3.1\caesar.pdb
+C:\Users\Vartotojas\source\repos\caesar\caesar\obj\Debug\netcoreapp3.1\caesar.csprojAssemblyReference.cache
+C:\Users\Vartotojas\source\repos\caesar\caesar\obj\Debug\netcoreapp3.1\caesar.AssemblyInfoInputs.cache
+C:\Users\Vartotojas\source\repos\caesar\caesar\obj\Debug\netcoreapp3.1\caesar.AssemblyInfo.cs
+C:\Users\Vartotojas\source\repos\caesar\caesar\obj\Debug\netcoreapp3.1\caesar.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\source\repos\caesar\caesar\obj\Debug\netcoreapp3.1\caesar.dll
+C:\Users\Vartotojas\source\repos\caesar\caesar\obj\Debug\netcoreapp3.1\caesar.pdb
+C:\Users\Vartotojas\source\repos\caesar\caesar\obj\Debug\netcoreapp3.1\caesar.genruntimeconfig.cache
